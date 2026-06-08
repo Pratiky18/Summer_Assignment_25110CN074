@@ -1,4 +1,4 @@
-// program to r everse a number
+// program to reverse a number
 import java.util.Scanner;
 
 public class ques6 {
